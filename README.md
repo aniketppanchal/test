@@ -43,7 +43,7 @@
 
 # 3. What is 🏀 BlaxML MCP Server?
 
-**BlaxML** = **Blaxel** + **Autonomous Machine Learning**
+`BlaxML` = `Blaxel` + `Autonomous Machine Learning`
 
 The BlaxML MCP Server is a fully autonomous machine learning system **built on top of Blaxel's sandboxing infrastructure**, enabling AI agents to transform **raw CSV datasets** into **fully trained and deployed machine learning models**. And it doesn’t stop there; every deployed model comes with a built-in **interactive Gradio GUI** and a **REST API endpoint**, making inference accessible for both humans and applications.
 
